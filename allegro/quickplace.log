@@ -1,0 +1,46 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    QUICKPLACE LOG                                                   )
+(                                                                     )
+(    Drawing          : DA_CONVERTOR.brd                              )
+(    Software Version : 17.2P028                                      )
+(    Date/Time        : Wed Jul 31 15:06:59 2019                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+State: Placing on layer TOP
+
+         Placed symbol:  U3 / 74LS90_3_DIP14_3_74LS90_+5V / DIP14_3 at (2.473 86.348)
+         Placed symbol:  U4 / LM741_2_DIP8_3_LM741 / DIP8_3 at (12.836 78.093)
+         Placed symbol:  U2 / LM741_2_DIP8_3_LM741 / DIP8_3 at (23.199 78.093)
+         Placed symbol:  U1 / LM741_2_DIP8_3_LM741 / DIP8_3 at (33.562 78.093)
+         Placed symbol:  J2 / CON4_JUMPER4_CON4 / JUMPER4 at (43.925 70.727)
+         Placed symbol:  J1 / CON2_JUMPER2_CON2 / JUMPER2 at (54.288 70.473)
+         Placed symbol:  R11 / R_RES400_10K / RES400 at (60.155 70.384)
+         Placed symbol:  R1 / R_RES400_10K / RES400 at (63.482 70.384)
+         Placed symbol:  R13 / R_RES400_10K / RES400 at (66.809 70.384)
+         Placed symbol:  R16 / R_RES400_10K / RES400 at (70.136 70.384)
+         Placed symbol:  R18 / R_RES400_10K / RES400 at (73.463 70.384)
+         Placed symbol:  R3 / R_RES400_10K / RES400 at (76.790 70.384)
+         Placed symbol:  R15 / R_RES400_10K / RES400 at (80.117 70.384)
+         Placed symbol:  D1 / DIODE_DO41_1N4148 / DO41 at (83.114 70.346)
+         Placed symbol:  R6 / R_RES400_10K / RES400 at (86.695 70.384)
+         Placed symbol:  R14 / R_RES400_22K / RES400 at (90.022 70.384)
+         Placed symbol:  R17 / R_RES400_22K / RES400 at (93.349 70.384)
+         Placed symbol:  R9 / R_RES400_22K / RES400 at (96.676 70.384)
+         Placed symbol:  R2 / R_RES400_5.1K / RES400 at (3.057 89.637)
+         Placed symbol:  R4 / R_RES400_1K / RES400 at (6.384 89.637)
+         Placed symbol:  R5 / R_RES400_1K / RES400 at (9.711 89.637)
+         Placed symbol:  R8 / R_RES400_1K / RES400 at (13.038 89.637)
+         Placed symbol:  R7 / R_RES400_6.8K / RES400 at (16.365 89.637)
+         Placed symbol:  D2 / DIODE ZENER_DO41_RD 5.6A / DO41 at (19.362 89.599)
+         Placed symbol:  R12 / R_RES400_22K / RES400 at (22.943 89.637)
+         Placed symbol:  R10 / R_RES400_22K / RES400 at (26.270 89.637)
+         Placed symbol:  C1 / CAP NP_CAP196_0.1UF / CAP196 at (30.537 89.726)
+
+
+Placed 27 of 27 applicable (27 total) symbols.
+
+-----------------------------------------------------------------------
+
